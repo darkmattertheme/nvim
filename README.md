@@ -27,7 +27,7 @@ A colorscheme adapted from base16-black-metal-bathory. Works in both Neovim and 
 
 ```lua
 use {
-  'darkmattertheme/darkmatter.nvim',
+  'darkmattertheme/nvim',
   config = function()
     vim.cmd('colorscheme darkmatter')
   end
@@ -38,7 +38,7 @@ use {
 
 ```lua
 {
-  'darkmattertheme/darkmatter.nvim',
+  'darkmattertheme/nvim',
   lazy = false,
   priority = 1000,
   config = function()
@@ -52,13 +52,13 @@ use {
 Using [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```vim
-Plug 'darkmattertheme/darkmatter.nvim'
+Plug 'darkmattertheme/nvim'
 ```
 
 Or with Vim's built-in package support:
 
 ```sh
-git clone https://github.com/darkmattertheme/darkmatter.nvim \
+git clone https://github.com/darkmattertheme/nvim \
   ~/.vim/pack/plugins/start/darkmatter.nvim
 ```
 

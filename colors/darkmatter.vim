@@ -1,6 +1,6 @@
 " darkmatter
 " A colorscheme adapted from base16-black-metal-bathory
-" URL: https://github.com/darkmattertheme/darkmatter.nvim
+" URL: https://github.com/darkmattertheme/nvim
 "
 " Works in both Neovim and Vim 8+. Neovim is handed off to the Lua
 " implementation, which adds Treesitter, LSP and plugin integrations. Vim gets
