@@ -1,0 +1,18 @@
+*darkmatter-nvim.txt* Vim/Neovim colorscheme based on base16-black-metal-bathory
+
+Author:  Steve Simkins (stevedylandev) <hello@stevedylan.dev>
+
+INTRODUCTION                                                    *darkmatter-nvim*
+===========================================================================
+
+Colorschemes can be accessed with |:colorscheme|.
+>
+    :colorscheme darkmatter
+<
+The same command works in both Vim 8+ and Neovim. Neovim additionally loads
+the Lua implementation, which adds Treesitter, LSP and plugin highlights.
+
+For true colors, enable 'termguicolors'.  Without it, Vim falls back to the
+nearest 256-color approximations of the palette.
+
+vim:tw=78:ts=8:ft=help:norl:
