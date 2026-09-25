@@ -1,6 +1,13 @@
-# darkmatter.nvim
+<h3 align="center">
+	<img src="assets/logo.svg" width="100" alt="Logo"/><br/>
+	<img src="assets/transparent.svg" height="30" width="0px"/>
+	darkmatter.nvim
+	<img src="assets/transparent.svg" height="30" width="0px"/>
+</h3>
 
-![cover](https://files.stevedylan.dev/darkmatter-nvim.png)
+<p align="center">
+	<img src="assets/preview.webp" alt="darkmatter.nvim"/>
+</p>
 
 A colorscheme adapted from base16-black-metal-bathory. Works in both Neovim and Vim 8+.
 
